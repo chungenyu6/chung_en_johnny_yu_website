@@ -21,8 +21,8 @@ site:
   template: book-theme
   options:
     # hide_toc: True
-    # favicon: favicon.ico
-    logo: site_logo.png
+    favicon: site_icon.ico
+    logo: site_logo3.png
 
 # Information about where the book exists on the web
 repository:
