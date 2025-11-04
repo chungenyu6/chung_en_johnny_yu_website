@@ -1,16 +1,15 @@
-# HOME
+# Chung-En Johnny Yu's Website
 
-## ML/AI Interview Preparation 2026
-
-### About me
+## About me
 Hi! I am **Chung-En Johnny Yu**.
 
-### Introduction
-This website serves my notes of preparing ML/AI interviews.
+## Introduction
+This website serves my notes of preparing ML/AI interviews in 2026.
 The notes are created based on the assumption of readers having basic knowledge of ML and LLMs.
 The codes are mainly tested on Google Colab's environment.
 
-### Update
+## Update
+- @2025/10/18 - Modify website to serve as my personal website.
 - @2025/10/18 - Update page: `LLM/Architecture - GPT`.
 - @2025/10/09 - Update page: `LLM/Architecture - GPT`.
 - @2025/10/06 - Add page: `LLM/Architecture - GPT`.

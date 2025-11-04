@@ -6,7 +6,7 @@ project:
   # description:
   # keywords: []
   # authors: []
-  github: https://github.com/chungenyu6/johnny_ai_interview_prep_2026
+  github: https://github.com/chungenyu6/chung_en_johnny_yu_website
   exclude: 
     - README.md
     - 00-*/**
@@ -22,11 +22,11 @@ site:
   options:
     # hide_toc: True
     # favicon: favicon.ico
-    # logo: site_logo.png
+    logo: site_logo.png
 
 # Information about where the book exists on the web
 repository:
-  url                       : https://github.com/chungenyu6/johnny_ai_interview_prep_2026  # Online location of your book
+  url                       : https://github.com/chungenyu6/chung_en_johnny_yu_website  # Online location of your book
   # path_to_book              : # Optional path to your book, relative to the repository root
   branch                    : main  # Which branch of the repository should be used when creating links (optional)
 
