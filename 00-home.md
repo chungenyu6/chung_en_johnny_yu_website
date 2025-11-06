@@ -4,7 +4,8 @@ site:
   hide_navigaton: true
 ---
 
-# Home
+# Home 
+
 
 ## Welcome to Chung-En Johnny Yu's Website!
 
