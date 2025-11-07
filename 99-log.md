@@ -1,5 +1,6 @@
 # Website Log
 
+- @2025/11/06 - Update page: `LLM/Pretraining`.
 - @2025/11/05 - Add page: `LLM/Pretraining`.
 - @2025/11/03 - Modify website to serve as my personal website.
 - @2025/10/18 - Update page: `LLM/Architecture - GPT`.

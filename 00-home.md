@@ -10,14 +10,13 @@ site:
 ## Welcome to Chung-En Johnny Yu's Website!
 
 
-This website serves my notes of preparing ML/AI interviews in 2026.
-The notes are created based on the assumption of readers having basic knowledge of ML and LLMs.
-The codes are mainly tested on Google Colab's environment.
-
-
 ## About Me
 
-This is **Chung-En Johnny Yu**.
+Chung-En Johnny Yu is a Ph.D. student in the Intelligent Systems and Robotics department at UWF and IHMC, where he began his studies under the supervision of Dr. Brian Jalaian in August 2023. His research interests lie in agentic AI, reasoning AI, multi-modal LLMs, and AI robustness.
+
+Prior to joining UWF, Johnny earned his master’s degree in electrical engineering from the University of Minnesota in 2023. His academic background includes experience in robust control systems, computer vision, simultaneous localization and mapping, and reinforcement learning.
+
+When not immersed in his research, Johnny enjoys outdoor activities such as surfing and diving, as well as pursuing his passion for photography. He also dedicates some of his free time to working on interesting robotics side-projects.
 
 
 ## News
