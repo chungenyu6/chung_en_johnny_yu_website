@@ -1,6 +1,6 @@
 # Table of Content
 
-Here is my notes of preparing ML/AI interviews in 2025.
+Here is my notes of preparing ML/AI interviews in 2025 to 2026.
 The notes are created based on the assumption of readers having basic understanding of ML and LLMs,
 and eager to learn more details.
 The codes are mainly tested on Google Colab's environment.

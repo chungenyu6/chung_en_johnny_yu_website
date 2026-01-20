@@ -7,12 +7,12 @@ site:
 # Home 
 
 
-## Welcome to Chung-En Johnny Yu's Website!
+## Welcome to Chung-En (Johnny) Yu's Website!
 
 
 ## About Me
 
-Chung-En Johnny Yu is a Ph.D. student in the Intelligent Systems and Robotics department at UWF and IHMC, where he began his studies under the supervision of Dr. Brian Jalaian in August 2023. His research interests lie in agentic AI, reasoning AI, multi-modal LLMs, and AI robustness.
+Chung-En (Johnny) Yu is a Ph.D. student in the Intelligent Systems and Robotics department at the Unversity of West Florida (UWF) and The Institute for Human & Machine Cognition (IHMC), where he began his studies under the supervision of Dr. Brian Jalaian in August 2023. His research interests lie in agentic AI, reasoning AI, multi-modal LLMs, and AI robustness.
 
 Prior to joining UWF, Johnny earned his master’s degree in electrical engineering from the University of Minnesota in 2023. His academic background includes experience in robust control systems, computer vision, simultaneous localization and mapping, and reinforcement learning.
 
