@@ -1,5 +1,6 @@
 # Website Log
 
+- @2026/02/06 - Update page: `LLM/Pretraining`.
 - @2026/01/19 - Update page: `LLM/Pretraining`.
 - @2025/11/10 - Update page: `LLM/Pretraining`.
 - @2025/11/06 - Update page: `LLM/Pretraining`.
