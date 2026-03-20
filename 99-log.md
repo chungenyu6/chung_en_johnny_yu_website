@@ -1,5 +1,5 @@
 # Website Log
-
+- @2026/02/20 - Update page: `HOME`.
 - @2026/02/20 - Update page: `LLM/Finetuning for Classification`.
 - @2026/02/18 - Update page: `LLM/Finetuning for Classification`.
 - @2026/02/06 - Update page: `LLM/Pretraining`.
