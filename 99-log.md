@@ -1,5 +1,6 @@
 # Website Log
-- @2026/02/20 - Update page: `HOME`.
+- @2026/03/24 - Update page: `Home`, `Curriculum Vitae`, `Recent News`.
+- @2026/03/19 - Update page: `Home`.
 - @2026/02/20 - Update page: `LLM/Finetuning for Classification`.
 - @2026/02/18 - Update page: `LLM/Finetuning for Classification`.
 - @2026/02/06 - Update page: `LLM/Pretraining`.
