@@ -1,4 +1,6 @@
 # Website Log
+- @2026/03/31 - Update page: `Publications`, `Recent News`, `Home`, `SCoOP`.
+- @2026/03/24 - Update page: `Publications`, `Recent News`.
 - @2026/03/24 - Update page: `Home`, `Curriculum Vitae`, `Recent News`.
 - @2026/03/19 - Update page: `Home`.
 - @2026/02/20 - Update page: `LLM/Finetuning for Classification`.

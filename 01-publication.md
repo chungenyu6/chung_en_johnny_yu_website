@@ -5,7 +5,7 @@
 ## 2026
 - **SCoOP: Semantic Consistent Opinion Pooling for Uncertainty Quantification in Multiple Vision Language Model Systems** <br>
 Chung-En Johnny Yu, Brian Jalaian, Nathaniel D. Bastian <br>
-*ICLR 2026 Workshop* \[[paper](https://arxiv.org/abs/2603.23853v1)\]
+*ICLR 2026 Workshop* \[[website](research/2026/scoop/scoop.md)\] \[[paper](https://arxiv.org/abs/2603.23853v1)\] \[[code](https://github.com/chungenyu6/SCoOP)\]
 
 ## 2025
 - **Neurosymbolic AI for Network Intrusion Detection Systems: A Survey** <br>
