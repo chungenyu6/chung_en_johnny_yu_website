@@ -10,7 +10,7 @@ site:
 
 <div style="margin: 0.25rem 0 1rem 0; background: #f3f4f6; border: 1px solid #e5e7eb; border-radius: 10px; padding: 0.7rem 0.9rem;">
   <span>📣 <strong>HEADLINE: </strong></span>
-  <span><a href="research/2026/scoop/scoop">SCoOP</a> has been accepted as a poster at <a href="https://hallucination-reliable-agentic-ai.github.io/">ICLR 2026 Workshop - Agentic AI in the Wild: From Hallucinations to Reliable Autonomy</a>!</span>
+  <span><a href="publication">SCoOP</a> has been accepted as a poster at <a href="https://hallucination-reliable-agentic-ai.github.io/">ICLR 2026 Workshop - Agentic AI in the Wild: From Hallucinations to Reliable Autonomy</a>!</span>
 </div>
 <br>
 
