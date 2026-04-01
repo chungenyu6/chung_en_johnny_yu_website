@@ -11,3 +11,4 @@ The codes are mainly tested on Google Colab's environment.
 - [Attention](./02_attention.ipynb)
 - [Architecture - GPT](./03_architecture_gpt.ipynb)
 - [Pretraining](./04_pretraining.ipynb)
+- [Finetuning for Classification](./05_finetuning_classification.ipynb)

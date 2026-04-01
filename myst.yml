@@ -11,13 +11,31 @@ project:
     - README.md
     - 00-*/**
     - my-note/**
-    - research/**
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
-  # toc:
-  #   - file: web-page/home.md
-  #     children:
-  #       - pattern: web-page/*
-    
+  toc:
+    - file: 00-home.md
+    - file: 03-news.md
+    - file: 01-publication.md
+    - file: 02-cv.md
+    - title: ML
+      children:
+        - file: 01-ML/00-toc-ml.md
+        - pattern: '01-ML/*.ipynb'
+          sort: ascending
+    - title: LLM
+      children:
+        - file: 02-LLM/00-toc-llm.md
+        - pattern: '02-LLM/*.ipynb'
+          sort: ascending
+    - title: AL_DS
+      children:
+        - file: 03-AL_DS/00-toc-al-ds.md
+        - pattern: '03-AL_DS/*.ipynb'
+          sort: ascending
+    - file: 99-log.md
+    - pattern: 'research/**/*.md'
+      hidden: true
+
 site:
   template: book-theme
   options:
