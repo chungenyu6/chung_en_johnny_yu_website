@@ -18,7 +18,7 @@ site:
 
 ## Chung-En (Johnny) Yu
 
-<div style="font-size: 0.9em; margin: 0.1rem 0 0.15rem 0;">Ph.D. student @ UWF-IHMC</div>
+<div style="font-size: 0.9em; margin: 0.1rem 0 0.15rem 0;">Ph.D. Candidate @ UWF-IHMC</div>
 
 <span style="font-size: 0.8em; white-space: nowrap; display: inline-flex; align-items: center; gap: 0.45rem;">
 <a href="mailto:chungenyu6@gmail.com"><img src="web_img/email.png" alt="Email" width="14"></a> <a href="mailto:chungenyu6@gmail.com">Email</a> 
@@ -43,7 +43,7 @@ align: left
 
 ## About Me
 
-Chung-En (Johnny) Yu is a Ph.D. student in the Intelligent Systems and Robotics department at the Unversity of West Florida (UWF) and Institute for Human & Machine Cognition (IHMC), where he began his studies under the supervision of Prof. [Brian Jalaian](https://brianjalaian.com/) in August 2023.
+Chung-En (Johnny) Yu is a Ph.D. candidate in the Intelligent Systems and Robotics department at the Unversity of West Florida (UWF) and Institute for Human & Machine Cognition (IHMC), where he began his studies under the supervision of Prof. [Brian Jalaian](https://brianjalaian.com/) in August 2023.
 
 His research interests lie in robust and reliable agentic AI systems, multimodal foundation models, and uncertainty quantification for high-stakes, real-world applications. He also has experience as a teaching assistant and as a co-instructor for machine learning and deep learning courses, where he contributed to lecture materials, assignments, and in-class instruction.
 
