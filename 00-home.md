@@ -10,7 +10,9 @@ site:
 
 <div style="margin: 0.25rem 0 1rem 0; background: #f3f4f6; border: 1px solid #e5e7eb; border-radius: 10px; padding: 0.7rem 0.9rem;">
   <span>📣 <strong>HEADLINE: </strong></span>
-  <span>@2026/04/14: [Visual Reasoning Agent](publication) has been accepted at the [MORS 2026 Artificial Intelligence Workshop Proceedings](https://www.mors.org/events/workshops/ai-workshop)!</span>
+  <span>
+  <span>@2026/04/14: <a href="publication/">Visual Reasoning Agent</a> has been accepted at the 
+  <a href="https://www.mors.org/events/workshops/ai-workshop">MORS 2026 Artificial Intelligence Workshop Proceedings</a>!</span>
 </div>
 <br>
 
