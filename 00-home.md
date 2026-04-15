@@ -10,7 +10,7 @@ site:
 
 <div style="margin: 0.25rem 0 1rem 0; background: #f3f4f6; border: 1px solid #e5e7eb; border-radius: 10px; padding: 0.7rem 0.9rem;">
   <span>📣 <strong>HEADLINE: </strong></span>
-  <span>@2026/04/14: Passed the PhD qualifying exam!</span>
+  <span>@2026/04/14: [Visual Reasoning Agent](publication) has been accepted at the [MORS 2026 Artificial Intelligence Workshop Proceedings](https://www.mors.org/events/workshops/ai-workshop)!</span>
 </div>
 <br>
 

@@ -3,17 +3,17 @@
 *The `*` indicates authors contributed equally to the research*
 
 ## 2026
+- **Visual Reasoning Agent: Robust Vision Systems in Remote Sensing via Inference-Time Scaling** <br>
+Chung-En Johnny Yu, Brian Jalaian, Nathaniel D. Bastian <br>
+*[MORS 2026 Artificial Intelligence Workshop Proceedings](https://www.mors.org/events/workshops/ai-workshop); preprint on arXiv 2025* \[[paper](https://arxiv.org/pdf/2509.16343)\]
 - **SCoOP: Semantic Consistent Opinion Pooling for Uncertainty Quantification in Multiple Vision Language Model Systems** <br>
 Chung-En Johnny Yu, Brian Jalaian, Nathaniel D. Bastian <br>
-*[ICLR 2026 Workshop](https://hallucination-reliable-agentic-ai.github.io/)* \[[paper](https://arxiv.org/abs/2603.23853v1)\] \[[code](https://github.com/chungenyu6/SCoOP)\]
+*[ICLR 2026 Workshop (poster)](https://hallucination-reliable-agentic-ai.github.io/)* \[[paper](https://arxiv.org/abs/2603.23853v1)\] \[[code](https://github.com/chungenyu6/SCoOP)\]
 
 ## 2025
 - **Neurosymbolic AI for Network Intrusion Detection Systems: A Survey** <br>
 Alice Bizzarri, Chung-En Johnny Yu, Brian Jalaian, Fabrizio Riguzzi, Nathaniel D. Bastian <br>
 *Journal of Information Security and Applications 2025* \[[paper](https://www.sciencedirect.com/science/article/pii/S221421262500242X)\]
-- **Agentic Reasoning for Robust Vision Systems via Increased Test-Time Compute** <br>
-Chung-En Johnny Yu, Brian Jalaian, Nathaniel D. Bastian <br>
-*arXiv 2025* \[[paper](https://arxiv.org/pdf/2509.16343)\]
 - **ORCA: Agentic Reasoning For Hallucination and Adversarial Robustness in Vision-Language Models** <br>
 Chung-En Johnny Yu, Brian Jalaian, Nathaniel D. Bastian <br>
 *arXiv 2025* \[[paper](https://arxiv.org/pdf/2509.15435)\]
