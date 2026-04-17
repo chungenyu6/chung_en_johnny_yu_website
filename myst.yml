@@ -17,6 +17,7 @@ project:
     - file: 03-news.md
     - file: 01-publication.md
     - file: 02-cv.md
+    - file: 04-conference_tracker.md
     - title: ML
       children:
         - file: 01-ML/00-toc-ml.md
@@ -32,7 +33,6 @@ project:
         - file: 03-AL_DS/00-toc-al-ds.md
         - pattern: '03-AL_DS/*.ipynb'
           sort: ascending
-    - file: 99-log.md
     - pattern: 'research/**/*.md'
       hidden: true
 
