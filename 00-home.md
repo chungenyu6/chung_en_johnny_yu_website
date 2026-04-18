@@ -11,8 +11,8 @@ site:
 <div style="margin: 0.25rem 0 1rem 0; background: #f3f4f6; border: 1px solid #e5e7eb; border-radius: 10px; padding: 0.7rem 0.9rem;">
   <span>📣 <strong>HEADLINE: </strong></span>
   <span>
-  <span>@2026/04/14: <a href="https://chungenyu6.github.io/chung_en_johnny_yu_website/publication">Visual Reasoning Agent</a> has been accepted at the 
-  <a href="https://www.mors.org/events/workshops/ai-workshop">MORS 2026 Artificial Intelligence Workshop Proceedings</a>!</span>
+  <span>@2026/04/14: <a href="https://chungenyu6.github.io/chung_en_johnny_yu_website/publication">ORCA</a> has been accepted for oral presentation at the 
+  <a href="https://www.iccbdc.org/">ACM ICCBDC 2026</a>!</span>
 </div>
 <br>
 

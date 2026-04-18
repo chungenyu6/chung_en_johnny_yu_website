@@ -1,4 +1,9 @@
-# 🎓 AI/ML Conference Deadline Tracker
+---
+site:
+  hide_outline: true
+---
+
+# AI Conference Tracker
 
 > **Last updated:** `2026-04-16`
 >
