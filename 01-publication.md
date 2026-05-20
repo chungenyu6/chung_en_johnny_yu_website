@@ -13,7 +13,7 @@ Alice Bizzarri, Chung-En Johnny Yu, Brian Jalaian, Fabrizio Riguzzi, Nathaniel D
 *Journal of Information Security and Applications 2025* \[[paper](https://www.sciencedirect.com/science/article/pii/S221421262500242X)\]
 - **Visual Reasoning Agent: Robust Vision Systems in Remote Sensing via Inference-Time Scaling** <br>
 Chung-En Johnny Yu, Brian Jalaian, Nathaniel D. Bastian <br>
-*[MORS 2026 Artificial Intelligence Workshop (poster)](https://www.mors.org/events/workshops/ai-workshop); preprint on arXiv 2025* \[[paper](https://arxiv.org/pdf/2509.16343)\]
+*[MORS 2026 Artificial Intelligence Workshop Proceedings (poster)](https://www.mors.org/events/workshops/ai-workshop); preprint on arXiv 2025* \[[paper](https://arxiv.org/pdf/2509.16343)\]
 - **ORCA: Agentic Reasoning For Hallucination and Adversarial Robustness in Vision-Language Models** <br>
 Chung-En Johnny Yu, Brian Jalaian, Nathaniel D. Bastian <br>
 *[ICCBDC 2026 (oral)](https://www.iccbdc.org/); preprint on arXiv 2025* \[[paper](https://arxiv.org/pdf/2509.15435)\]
