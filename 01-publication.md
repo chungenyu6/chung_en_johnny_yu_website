@@ -5,7 +5,7 @@
 ## 2026
 - **SCoOP: Semantic Consistent Opinion Pooling for Uncertainty Quantification in Multiple Vision Language Model Systems** <br>
 Chung-En Johnny Yu, Brian Jalaian, Nathaniel D. Bastian <br>
-*[ICLR 2026 Workshop (poster)](https://hallucination-reliable-agentic-ai.github.io/)* \[[paper](https://arxiv.org/pdf/2603.23853)\] \[[code](https://github.com/chungenyu6/SCoOP)\]
+*[ICLR 2026 Workshop (poster)](https://hallucination-reliable-agentic-ai.github.io/)* \[[paper](https://doi.org/10.48550/arXiv.2603.23853)\] \[[code](https://github.com/chungenyu6/SCoOP)\]
 
 ## 2025
 - **Neurosymbolic AI for Network Intrusion Detection Systems: A Survey** <br>
@@ -13,13 +13,13 @@ Alice Bizzarri, Chung-En Johnny Yu, Brian Jalaian, Fabrizio Riguzzi, Nathaniel D
 *Journal of Information Security and Applications 2025* \[[paper](https://www.sciencedirect.com/science/article/pii/S221421262500242X)\]
 - **Visual Reasoning Agent: Robust Vision Systems in Remote Sensing via Inference-Time Scaling** <br>
 Chung-En Johnny Yu, Brian Jalaian, Nathaniel D. Bastian <br>
-*[MORS 2026 Artificial Intelligence Workshop Proceedings (poster)](https://www.mors.org/events/workshops/ai-workshop)* \[[paper](https://arxiv.org/pdf/2509.16343)\]
+*[MORS 2026 Artificial Intelligence Workshop Proceedings (poster)](https://www.mors.org/events/workshops/ai-workshop)* \[[paper](https://doi.org/10.48550/arXiv.2509.16343)\]
 - **ORCA: Agentic Reasoning For Hallucination and Adversarial Robustness in Vision-Language Models** <br>
 Chung-En Johnny Yu, Brian Jalaian, Nathaniel D. Bastian <br>
-*[ACM ICCBDC 2026 (oral)](https://www.iccbdc.org/)* \[[paper](https://arxiv.org/pdf/2509.15435)\]
+*[ACM ICCBDC 2026 (oral)](https://www.iccbdc.org/)* \[[paper](https://doi.org/10.48550/arXiv.2509.15435)\]
 - **Hydra: An Agentic Reasoning Approach for Enhancing Adversarial Robustness and Mitigating Hallucinations in Vision-Language Models** <br>
 Chung-En Johnny Yu, Brian Jalaian, Nathaniel D. Bastian <br>
-*preprint on arXiv 2025* \[[paper](https://arxiv.org/pdf/2504.14395)\]
+*preprint on arXiv 2025* \[[paper](https://doi.org/10.48550/arXiv.2504.14395)\]
 
 ## 2024
 - **Neuro-Symbolic Integration for Open Set Recognition in Network Intrusion** <br>
@@ -33,4 +33,4 @@ Jacob Sander, Chung-En Johnny Yu, Brian Jalaian, Nathaniel D. Bastian <br>
 *[IEEE MILCOM 2024 (oral)](https://milcom2024.ieee-milcom.org/)* \[[paper](https://ieeexplore.ieee.org/abstract/document/10773953/)\]
 - **A Synergistic Approach in Network Intrusion Detection by Neurosymbolic AI** <br>
 Alice Bizzarri *, Chung-En Johnny Yu *, Brian Jalaian, Fabrizio Riguzzi, Nathaniel D. Bastian <br>
-*preprint on arXiv 2024* \[[paper](https://arxiv.org/pdf/2406.00938)\]
+*preprint on arXiv 2024* \[[paper](https://doi.org/10.48550/arXiv.2406.00938)\]

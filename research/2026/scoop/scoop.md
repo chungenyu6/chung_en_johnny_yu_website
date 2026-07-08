@@ -2,7 +2,7 @@
 
 
 - [Chung-En Johnny Yu](https://scholar.google.com/citations?user=OQ6yRW0AAAAJ), [Brian Jalaian](https://scholar.google.com/citations?user=exiqJqcAAAAJ), and [Nathaniel D Bastian](https://scholar.google.com/citations?user=M2aMMxQAAAAJ)
-- \[[Website](research/2026/scoop/scoop)\] \[[arXiv](https://arxiv.org/abs/2603.23853v1)\] \[[GitHub](https://github.com/chungenyu6/SCoOP)\]
+- \[[Website](research/2026/scoop/scoop)\] \[[arXiv](https://doi.org/10.48550/arXiv.2603.23853)\] \[[GitHub](https://github.com/chungenyu6/SCoOP)\]
 
 ## Abstract
 
