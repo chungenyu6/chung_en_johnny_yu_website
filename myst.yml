@@ -11,7 +11,7 @@ project:
     - Jupyter notebooks
   authors:
     - name: Chung-En (Johnny) Yu
-  github: https://github.com/chungenyu6/chung_en_johnny_yu_website
+  github: https://github.com/chungenyu6/ai-learning-notebooks
   exclude: 
     - README.md
     - my-note/**
