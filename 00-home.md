@@ -3,7 +3,7 @@ site:
   hide_outline: true
 ---
 
-# Johnny's AI Learning Notes
+# AI Learning Notes
 
 Hands-on notebooks for readers who understand the basics of machine learning and want to study how modern models work from the inside out.
 

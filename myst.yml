@@ -2,7 +2,7 @@
 version: 1
 project:
   id: e0d75714-8b7a-4ea2-9c69-e2a40c75933d
-  title: Johnny's AI Learning Notes
+  title: AI Learning Notes
   description: Hands-on notebooks for machine learning and large language models.
   keywords:
     - machine learning

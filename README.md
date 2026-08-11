@@ -1,4 +1,4 @@
-# Johnny's AI Learning Notes
+# AI Learning Notes
 
 這個 repository 是獨立的 MyST 教材網站，保存 Chung-En (Johnny) Yu 的 machine learning 與 large language model notebooks。
 
