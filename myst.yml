@@ -2,52 +2,38 @@
 version: 1
 project:
   id: e0d75714-8b7a-4ea2-9c69-e2a40c75933d
-  # title:
-  # description:
-  # keywords: []
-  # authors: []
-  github: https://github.com/chungenyu6/chung_en_johnny_yu_website
+  title: Johnny's AI Learning Notes
+  description: Hands-on notebooks for machine learning and large language models.
+  keywords:
+    - machine learning
+    - large language models
+    - PyTorch
+    - Jupyter notebooks
+  authors:
+    - name: Chung-En (Johnny) Yu
+  github: https://github.com/chungenyu6/johnny_ai_interview_prep_2026
   exclude: 
     - README.md
-    - 00-*/**
     - my-note/**
-  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+    - 01-publication.md
+    - 02-cv.md
+    - 03-news.md
+    - research/**
   toc:
     - file: 00-home.md
-    - file: 03-news.md
-    - file: 01-publication.md
-    - file: 02-cv.md
-    - file: 04-conference_tracker.md
-    - title: ML
+    - title: Machine Learning
       children:
         - file: 01-ML/00-toc-ml.md
         - pattern: '01-ML/*.ipynb'
           sort: ascending
-    - title: LLM
+    - title: Large Language Models
       children:
         - file: 02-LLM/00-toc-llm.md
         - pattern: '02-LLM/*.ipynb'
           sort: ascending
-    - title: AL_DS
-      children:
-        - file: 03-AL_DS/00-toc-al-ds.md
-        - pattern: '03-AL_DS/*.ipynb'
-          sort: ascending
-    - pattern: 'research/**/*.md'
-      hidden: true
 
 site:
   template: book-theme
   options:
-    # hide_toc: True
     favicon: web_img/site_icon.ico
     logo: web_img/site_logo3.png
-
-# Information about where the book exists on the web
-repository:
-  url                       : https://github.com/chungenyu6/chung_en_johnny_yu_website  # Online location of your book
-  # path_to_book              : # Optional path to your book, relative to the repository root
-  branch                    : main  # Which branch of the repository should be used when creating links (optional)
-
-launch_buttons:
-  colab_url: "https://colab.research.google.com"

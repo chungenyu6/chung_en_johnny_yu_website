@@ -1,73 +1,31 @@
 ---
 site:
   hide_outline: true
-  hide_navigaton: true
 ---
 
-# Home
+# Johnny's AI Learning Notes
 
----
+Hands-on notebooks for readers who understand the basics of machine learning and want to study how modern models work from the inside out.
 
-<div style="margin: 0.25rem 0 1rem 0; background: #f3f4f6; border: 1px solid #e5e7eb; border-radius: 10px; padding: 0.7rem 0.9rem;">
-  <span>📣 <strong>HEADLINE: </strong></span>
-  <span>
-  <span>@2026/04/14: <a href="https://chungenyu6.github.io/chung_en_johnny_yu_website/publication">ORCA</a> has been accepted for oral presentation at the 
-  <a href="https://www.iccbdc.org/">ACM ICCBDC 2026</a>!</span>
-</div>
-<br>
+The code is primarily tested in Google Colab. Each lesson combines concepts, implementation details, and interview-oriented review prompts.
 
----
+## Start with the LLM series
 
-## Chung-En (Johnny) Yu
+1. [Tokenization](./02-LLM/01_tokenization.ipynb)
+2. [Attention](./02-LLM/02_attention.ipynb)
+3. [GPT Architecture](./02-LLM/03_architecture_gpt.ipynb)
+4. [Pretraining](./02-LLM/04_pretraining.ipynb)
+5. [Fine-tuning for Classification](./02-LLM/05_finetuning_classification.ipynb)
+6. [Instruction Fine-tuning](./02-LLM/06_finetuning_instructions.ipynb)
 
-<div style="font-size: 0.9em; margin: 0.1rem 0 0.15rem 0;">Ph.D. Candidate @ UWF-IHMC</div>
+## Machine learning project
 
-<span style="font-size: 0.8em; white-space: nowrap; display: inline-flex; align-items: center; gap: 0.45rem;">
-<a href="mailto:chungenyu6@gmail.com"><img src="web_img/email.png" alt="Email" width="14"></a> <a href="mailto:chungenyu6@gmail.com">Email</a> 
-<span>|</span> 
-<a href="https://github.com/chungenyu6"><img src="web_img/github.png" alt="GitHub" width="14"></a> <a href="https://github.com/chungenyu6">GitHub</a> 
-<span>|</span> 
-<a href="https://www.linkedin.com/in/chung-en-yu/"><img src="web_img/linkedin.png" alt="LinkedIn" width="14"></a> <a href="https://www.linkedin.com/in/chung-en-yu/">LinkedIn</a> 
-<span>|</span> 
-<a href="https://scholar.google.com/citations?user=OQ6yRW0AAAAJ&hl=en&authuser=1"><img src="web_img/google_scholar.jpg" alt="Google Scholar" width="14"></a> <a href="https://scholar.google.com/citations?user=OQ6yRW0AAAAJ&hl=en&authuser=1">Google Scholar</a>
-</span>
-<br>
-<br>
+- [Deep Dive into MLPs](./01-ML/DL_MLP_All_Techniques.ipynb): from-scratch NumPy, Keras experiments, optimization, regularization, diagnostics, and visualization.
 
-```{figure} web_img/casual_me.jpg
----
-width: 260px
-align: left
----
-```
+## About the author
 
----
+These notes are maintained by [Chung-En (Johnny) Yu](https://chungenyu6.github.io/my-personal-website/), a Ph.D. candidate researching reliable multimodal and agentic AI systems.
 
-## About Me
-
-Chung-En (Johnny) Yu is a Ph.D. candidate in the Intelligent Systems and Robotics department at the Unversity of West Florida (UWF) and Institute for Human & Machine Cognition (IHMC), where he began his studies under the supervision of Prof. [Brian Jalaian](https://brianjalaian.com/) in August 2023.
-
-His research interests lie in robust and reliable agentic AI systems, multimodal foundation models, and uncertainty quantification for high-stakes, real-world applications. He also has experience as a teaching assistant and as a co-instructor for machine learning and deep learning courses, where he contributed to lecture materials, assignments, and in-class instruction.
-
-When not immersed in his research, Johnny enjoys outdoor activities such as surfing and diving, as well as pursuing his passion for photography and filming. He also dedicates some of his free time to working on interesting AI applications.
-
----
-
-### Major Interests
-- Reliable Agentic AI Systems
-- Multimodal Foundation Models
-- Uncertainty Quantification
-- Adversarial Robustness
-
-### Minor Interests
-- Neuro-symbolic AI (NSAI)
-- Robust Control Systems
-- Robotics (SLAM)
-- Computer Vision
-
----
-
-### Education
-- Ph.D. of Intelligent Systems and Robotics, University of West Florida (Present)
-- M.S. of Electrical and Computer Engineering, University of Minnesota, 2023
-- B.S. of Electrical Engineering, National Taipei Unvisity, 2020
+- [Personal website](https://chungenyu6.github.io/my-personal-website/)
+- [GitHub](https://github.com/chungenyu6)
+- [Google Scholar](https://scholar.google.com/citations?user=OQ6yRW0AAAAJ)

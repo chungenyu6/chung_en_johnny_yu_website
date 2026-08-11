@@ -1,29 +1,24 @@
-# Chung-En (Johnny) Yu's Website
+# Johnny's AI Learning Notes
 
-[Link to my website](https://chungenyu6.github.io/chung_en_johnny_yu_website/).
+這個 repository 是獨立的 MyST 教材網站，保存 Chung-En (Johnny) Yu 的 machine learning 與 large language model notebooks。
 
-## Common Commands
+- 教材網站：<https://chungenyu6.github.io/johnny_ai_interview_prep_2026/>
+- 個人網站：<https://chungenyu6.github.io/my-personal-website/>
 
-```bash
-cd book-jbook_file/
-```
-
-```bash
-source ~/.venvs/jbook/bin/activate
-```
+## Local preview
 
 ```bash
-jupyter book start
+npx myst start
 ```
 
-```bash
-jupyter book clean
-```
+## Static build
 
 ```bash
-jupyter book init --write-toc
+npx myst build --html
 ```
 
-```bash
-jupyter book init --gh-pages
-```
+Generated output 位於 `_build/html/`，而且不得 commit 到 Git。
+
+## Deployment
+
+Push 至 `main` 後，GitHub Actions 會 build MyST static HTML 並部署到 GitHub Pages。CI 預設不重新執行 notebooks，而是 render notebook 中已存在的 outputs。
