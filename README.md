@@ -2,7 +2,7 @@
 
 這個 repository 是獨立的 MyST 教材網站，保存 Chung-En (Johnny) Yu 的 machine learning 與 large language model notebooks。
 
-- 教材網站：<https://chungenyu6.github.io/johnny_ai_interview_prep_2026/>
+- 教材網站：<https://chungenyu6.github.io/chung_en_johnny_yu_website/>
 - 個人網站：<https://chungenyu6.github.io/my-personal-website/>
 
 ## Local preview
