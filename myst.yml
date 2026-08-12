@@ -15,10 +15,6 @@ project:
   exclude: 
     - README.md
     - my-note/**
-    - 01-publication.md
-    - 02-cv.md
-    - 03-news.md
-    - research/**
   toc:
     - file: 00-home.md
     - title: Machine Learning
